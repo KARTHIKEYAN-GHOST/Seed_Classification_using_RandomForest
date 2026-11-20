@@ -60,7 +60,3 @@ python randomforestclassifier_implementation.py
 ## Output
 
 The script displays a bar chart of total seed area by class and prints the accuracy score for the test split.
-
-## Notes
-
-The model uses default Random Forest settings and does not currently perform cross-validation, hyperparameter tuning, or a detailed per-class evaluation. The chart is exploratory and does not represent model feature importance.
